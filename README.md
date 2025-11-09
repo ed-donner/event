@@ -4,7 +4,7 @@ First visit [CodeSpaces Settings in Github](https://github.com/settings/codespac
 
 ```
 OPENAI_API_KEY=sk-proj-xxx
-ALLIANCE_MCP_SERVER_URL=xxx
+ALLIANCE_MCP_SERVER=xxx
 ```
 
 Then launch this CodeSpace:
