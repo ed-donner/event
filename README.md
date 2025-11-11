@@ -11,7 +11,7 @@ Then launch this CodeSpace:
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ed-donner/event?quickstart=1)
 
-In the codespace, you can run:
+In the codespace, wait a few minutes for your codespace to initialize. When you see that the `.venv` directory has been created, you can run:
 
 `uv run simple.py`
 
