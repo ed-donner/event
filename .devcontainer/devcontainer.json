@@ -7,7 +7,7 @@
             "documentationUrl": "https://platform.openai.com/api-keys"
         },
         "ALLIANCE_MCP_SERVER": {
-            "description": "The URL of the Running Alliance MCP Server",
+            "description": "The URL of the Running Alliance MCP Server"
         }
     },
     "customizations": {
