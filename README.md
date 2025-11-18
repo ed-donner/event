@@ -17,7 +17,7 @@ In the codespace, wait a few minutes for your codespace to initialize. When you 
 
 Please open the file loop.ipynb on the left, and follow the instructions.
 
-## Playiing "AGENTS IN ALLIANCE"
+## Playing "AGENTS IN ALLIANCE"
 
 Open a Terminal (View menu)
 
