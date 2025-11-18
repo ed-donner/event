@@ -19,7 +19,7 @@ Please open the file loop.ipynb on the left, and follow the instructions.
 
 ## Playing "AGENTS IN ALLIANCE"
 
-Open a Terminal (View menu)
+Open a Terminal (Ctrl + backtick)
 
 `uv run simple.py`
 
